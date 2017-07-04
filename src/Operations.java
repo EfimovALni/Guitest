@@ -17,7 +17,7 @@ public class Operations extends JFrame{
 
         System.out.println("Class Operation: " + (a + b));
         for (int i = 0; i < 5; ++i) {
-            System.out.println("i: " + i);
+            System.err.println("i: " + i);
         }
     }
 }
